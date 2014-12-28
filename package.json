@@ -8,5 +8,9 @@
     "url": "?.git"
   },
   "author": "Arvin Laqui",
+  "dependencies": {
+    "gulp": "3.6.2",
+    "gulp-util": "^3.0.1"
+  },
   "license": "ISC"
 }
